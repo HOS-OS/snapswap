@@ -1,7 +1,7 @@
 # Snapswap
 
-![Flatpak Logo](https://en.wikipedia.org/wiki/Flatpak)
-![Snap Logo](https://snapcraft.io/install/snapcraft/kde-neon)
+![Flatpak Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Flatpak_Logo.svg/1200px-Flatpak_Logo.svg.png)
+![Snap Logo](https://dashboard.snapcraft.io/site_media/appmedia/2018/04/Snapcraft-logo-bird.png)
 
 ## Overview
 
