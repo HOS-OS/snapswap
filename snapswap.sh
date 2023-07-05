@@ -4,7 +4,7 @@ echo "Installed Snap Packages with Flatpak versions:"
 echo "----------------------------------------------"
 
 # Path to the CSV file containing Flatpak versions
-csv_file="/media/sf_HOSOS5XFILES/applist.csv"
+csv_file="/applist.csv"
 
 # Read the CSV file and store the Snap applications and corresponding Flatpak versions in an associative array
 declare -A flatpak_versions
