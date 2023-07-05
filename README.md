@@ -1,0 +1,2 @@
+# snapswap
+snaps to flatpak 
