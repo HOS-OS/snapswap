@@ -46,6 +46,13 @@ Before using this script, ensure you have the following installed on your system
 2. The script depends on the availability of the Snap package in the official Snap store. If the Snap package is not present or has been removed, the conversion may fail.
 
 3.  packages often require runtime libraries and dependencies to be bundled with the package. This could result in larger package sizes compared to Snap packages.
+   
+## Future Ideas
+1. Allowing users to select what packages they want to convert to flatpak's and keep other snap packages.
+   
+2. Intagration with Hos OS with gui using zenity or make custom applcation.
+
+3. allow to switch back to snap packages ( probably not going to do because that's literally why i made this script but idk? )
 
 ## Disclaimer 
 This script is provided as-is. Use it at your own risk.  it worked on me system so idk if it will work on yours.
