@@ -2,8 +2,7 @@
 
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Flatpak_Logo.svg/1200px-Flatpak_Logo.svg.png" height="100" alt="Flatpak Logo">
-  <img src="https://dashboard.snapcraft.io/site_media/appmedia/2018/04/Snapcraft-logo-bird.png" height="100" alt="Snap Logo">
+  <img src="https://github.com/HOS-OS/snapswap/blob/main/snapswap.jpg" height="200" alt="SnapSwap Logo">
 </p>
 
 ## Add New Pakages 
