@@ -9,6 +9,8 @@
 
 Go here to are google form to ask to add more packages https://forms.gle/DWcSGXSo5qVhW6xA6
 
+We are currently over 400 packages available for conversion.
+
 ## Overview
 
 This script is a simple utility that helps convert Snap packages to Flatpaks, making it easier to use Snap applications on systems that support Flatpak. By converting Snap packages to Flatpaks, users can benefit from the convenience and flexibility of using Flatpak packages on their preferred Linux distribution.
